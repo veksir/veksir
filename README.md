@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" alt="GitHub Banner"/>
+
 # Hi 👋, I'm Kevin
 
-### Full-Stack Developer
+### Systems Engineer | Full-Stack Developer
 
 `Build. Learn. Repeat.`
 
@@ -14,15 +16,26 @@ Building practical software solutions with clean code and modern technologies.
 
 ## 🚀 About Me
 
-**Kevin**, Here — a Computer Engineering student focused on software development and building practical solutions.
+<img align="right" src="./astronaut.png" width="320" alt="Pixel Art"/>
 
-I enjoy building web applications, backend systems, and software projects while continuously improving my programming and problem-solving skills.
+**Kevin** — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on software development and building practical solutions.
 
-I have worked with **Java, JavaScript, React, Node.js, Express, Laravel, MongoDB, MySQL, Docker, and Python**, developing projects involving **REST APIs, databases, authentication, CRUD systems, and full-stack applications**.
+I enjoy building web applications, backend systems, and full-stack projects while continuously improving my architecture and problem-solving skills. I work with a planning-first approach: I document requirements and design the architecture before jumping into implementation.
 
-I've also explored **Machine Learning with Python and PyTorch**, working on projects involving image classification, model training, evaluation, and deployment.
+Currently working with **React, JavaScript, TypeScript, Next.js, Node.js, PHP, Java, MySQL, MongoDB, PostgreSQL, Docker, and Nginx**, developing projects involving REST APIs, databases, authentication, and full-stack applications.
 
-My goal is simple: **keep learning, build useful software, and grow into a well-rounded software engineer.**
+Recently completed a 120-hour **Diplomado en Desarrollo de Aplicaciones Web con Herramientas Cloud** (Unicordoba, 2026).
+
+My goal is simple: **keep learning, build useful software, and grow into a well-rounded software engineer who creates reliable solutions.**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Featured Projects
+
+- **Sistema de Asistencia Automatizada** — Led the backend migration from MongoDB/Mongoose to PostgreSQL/Sequelize (19 files), removed ESP32 hardware dependencies, built a mock API to simulate the university's student data system, and replaced CSV-based sync with API-based sync.
+- **HydrApp** — A hydration-tracking PWA integrating the Groq API, architected for deployment with a Render backend and Vercel frontend.
 
 ---
 
@@ -31,15 +44,15 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 <div align="center">
 
 <a href="https://github.com/veksir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45" alt="GitHub"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kevin-sena-molina/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/>
 </a>
-
-<a href="kevinsena243@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+&nbsp;&nbsp;
+<a href="mailto:kevinsena243@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Gmail"/>
 </a>
 
 </div>
@@ -50,51 +63,15 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,python,php,html,css" alt="Languages"/>
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel" alt="Frontend and Backend"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" alt="Tools"/>
-
-### Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" alt="Machine Learning"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/veksir/sigsa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=veksir&repo=sigsa&theme=dark&hide_border=true" alt="SIGSA"/>
-</a>
-
-<a href="https://github.com/veksir/production-line-balancing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=veksir&repo=production-line-balancing&theme=dark&hide_border=true" alt="Production Line Balancing"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/veksir/phytosanitary-management-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=veksir&repo=phytosanitary-management-app&theme=dark&hide_border=true" alt="Phytosanitary Management App"/>
-</a>
-
-<a href="https://github.com/veksir/greennote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=veksir&repo=greennote&theme=dark&hide_border=true" alt="GreenNote"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css" alt="Programming Languages"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frontend and Backend"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,nginx" alt="Development Tools"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=arduino" alt="IoT"/>
 
 </div>
 
@@ -105,12 +82,8 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veksir&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
@@ -120,7 +93,7 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&theme=github-compact&hide_border=true&area=true" width="100%" alt="veksir Contribution Graph"/>
 
 </div>
 
@@ -129,6 +102,8 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 <div align="center">
 
 ### `Code • Build • Learn • Repeat`
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=veksir&style=flat-square&color=grey" alt="Profile Views"/>
 
