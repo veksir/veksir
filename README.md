@@ -34,7 +34,6 @@ My goal is simple: **keep learning, build useful software, and grow into a well-
 
 ## 🛠️ Featured Projects
 
-- **Sistema de Asistencia Automatizada** — Led the backend migration from MongoDB/Mongoose to PostgreSQL/Sequelize (19 files), removed ESP32 hardware dependencies, built a mock API to simulate the university's student data system, and replaced CSV-based sync with API-based sync.
 - **HydrApp** — A hydration-tracking PWA integrating the Groq API, architected for deployment with a Render backend and Vercel frontend.
 
 ---
