@@ -48,29 +48,26 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 
 <h2 align="center">💻 Tech Stack</h2>
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php" />
 </p>
 
+<p align="center"><b>Frameworks & Libraries</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
 
+<p align="center"><b>Databases & Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,nginx" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" height="180"/>
 </div>
 
