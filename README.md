@@ -69,7 +69,6 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 
 <p align="center">
   <a href="https://github.com/veksir/hydrapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veksir&repo=hydrapp&theme=dark&hide_border=true" alt="HydrApp"/>
   </a>
 </p>
 
@@ -78,12 +77,6 @@ Hydration-tracking PWA integrating the Groq API — backend on Render, frontend 
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veksir&layout=compact&theme=dark&hide_border=true" height="180"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" height="180"/>
