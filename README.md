@@ -1,109 +1,91 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
 
-<img src="./banner.png" width="100%" alt="GitHub Banner"/>
+<h1 align="center">Hi 👋, I'm Kevin</h1>
 
-# Hi 👋, I'm Kevin
+<h3 align="center">Full-Stack Developer</h3>
 
-### Systems Engineer | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build.+Learn.+Repeat.;%3E+Planning+first%2C+code+second;%3E+Turning+ideas+into+working+software" alt="Typing SVG" />
+</p>
 
-`Build. Learn. Repeat.`
+<p align="center">
+Building practical web applications with clean architecture and modern technologies.
+</p>
 
-Building practical software solutions with clean code and modern technologies.
+<h2 align="center">🚀 About Me</h2>
 
-</div>
+<img align="right" src="./astronaut.png" width="280" alt="Developer Illustration"/>
 
----
+**Kevin**, here — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on full-stack development.
 
-## 🚀 About Me
+I work with a planning-first approach: documenting requirements and designing the architecture before writing a single line of code. I enjoy turning that groundwork into real, working applications.
 
-<img align="right" src="./astronaut.png" width="320" alt="Pixel Art"/>
-
-**Kevin** — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on software development and building practical solutions.
-
-I enjoy building web applications, backend systems, and full-stack projects while continuously improving my architecture and problem-solving skills. I work with a planning-first approach: I document requirements and design the architecture before jumping into implementation.
-
-Currently working with **React, JavaScript, TypeScript, Next.js, Node.js, PHP, Java, MySQL, MongoDB, PostgreSQL, Docker, and Nginx**, developing projects involving REST APIs, databases, authentication, and full-stack applications.
+Currently building **HydrApp**, a hydration-tracking PWA integrating the Groq API, architected for a Render backend and Vercel frontend.
 
 Recently completed a 120-hour **Diplomado en Desarrollo de Aplicaciones Web con Herramientas Cloud** (Unicordoba, 2026).
 
-My goal is simple: **keep learning, build useful software, and grow into a well-rounded software engineer who creates reliable solutions.**
+My goal is simple: keep learning, build useful software, and grow into a well-rounded software engineer who creates reliable solutions.
 
 <br clear="right"/>
 
----
+<h2 align="center">🤝 Connect</h2>
 
-## 🛠️ Featured Projects
+<p align="center">
+  <a href="https://github.com/veksir">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kevin-sena-molina/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kevinsena243@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
-- **HydrApp** — A hydration-tracking PWA integrating the Groq API, architected for deployment with a Render backend and Vercel frontend.
+<h2 align="center">💻 Tech Stack</h2>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php" />
+</p>
 
-## 🤝 Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-<a href="https://github.com/veksir">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevin-sena-molina/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kevinsena243@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Gmail"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,nginx" />
+</p>
 
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css" alt="Programming Languages"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frontend and Backend"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,nginx" alt="Development Tools"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=arduino" alt="IoT"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-<br><br>
-<img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" height="180" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=veksir&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </div>
-
----
-
-## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&theme=github-compact&hide_border=true&area=true" width="100%" alt="veksir Contribution Graph"/>
-
+  <img src="https://streak-stats.demolab.com?user=veksir&theme=dark&hide_border=true" height="180"/>
 </div>
 
----
+<h2 align="center">📈 Activity Graph</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
 
-### `Code • Build • Learn • Repeat`
+<h2 align="center">⌘ Philosophy</h2>
 
-<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=veksir&style=flat-square&color=grey" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=veksir&style=flat-square&color=grey" alt="Profile Views"/>
+</p>
