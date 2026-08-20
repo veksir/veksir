@@ -76,12 +76,6 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 Hydration-tracking PWA integrating the Groq API — backend on Render, frontend on Vercel.
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veksir&theme=dark&show_icons=true" alt="GitHub Stats" height="180" />
-</div>
-
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
