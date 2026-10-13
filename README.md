@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋, I'm Kevyn</h1>
 
 <h3 align="center">Full-Stack Developer</h3>
 
@@ -77,12 +77,10 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 Hydration-tracking PWA integrating the Groq API — backend on Render, frontend on Vercel.
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📈 Contribution Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/veksir">
-    <img src="https://ghchart.rshah.org/3B82F6/veksir" alt="Contribution Graph"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=veksir&background=1F242C&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border_radius=16" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
