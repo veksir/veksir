@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build.+Learn.+Repeat.;%3E+Planning+first%2C+code+second;%3E+Turning+ideas+into+working+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Build.+Learn.+Repeat.;%3E+Planning+first%2C+code+second;%3E+Turning+ideas+into+working+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 
 <p align="center">
   <a href="https://github.com/veksir">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kevin-sena-molina/">
@@ -44,7 +44,7 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kevinsena243@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
   </a>
 </p>
 
@@ -52,23 +52,24 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php" alt="Java, JavaScript, TypeScript, HTML, CSS, PHP" />
 </p>
 
 <p align="center"><b>Frameworks & Libraries</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="React, Next.js, Node.js, Express, Tailwind" />
 </p>
 
 <p align="center"><b>Databases & Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,nginx" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,nginx" alt="MongoDB, MySQL, PostgreSQL, Docker, Git, GitHub, Nginx" />
 </p>
 
 <h2 align="center">🛠️ Featured Project</h2>
 
 <p align="center">
   <a href="https://github.com/veksir/hydrapp">
+    <b>💧 HydrApp</b>
   </a>
 </p>
 
@@ -79,9 +80,11 @@ Hydration-tracking PWA integrating the Groq API — backend on Render, frontend 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <a href="https://github.com/veksir">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veksir&style=flat-square&color=grey" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=veksir&label=Profile+views&style=flat-square&color=grey" alt="Profile Views"/>
 </p>
