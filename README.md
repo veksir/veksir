@@ -22,7 +22,7 @@ Building practical web applications with clean architecture and modern technolog
 
 <img align="right" src="./astronaut.png" width="280" alt="Developer Illustration"/>
 
-**Kevin**, here — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on full-stack development.
+**kevyn**, here — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on full-stack development.
 
 I work with a planning-first approach: documenting requirements and designing the architecture before writing a single line of code. I enjoy turning that groundwork into real, working applications.
 
@@ -39,11 +39,11 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevin-sena-molina/">
+  <a href="https://www.linkedin.com/in/kevyn-sena-molina/">
     <img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kevinsena243@gmail.com">
+  <a href="mailto:kevynsena243@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
   </a>
 </p>
