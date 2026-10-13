@@ -81,7 +81,7 @@ Hydration-tracking PWA integrating the Groq API — backend on Render, frontend 
 
 <p align="center">
   <a href="https://github.com/veksir">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=veksir&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+    <img src="https://ghchart.rshah.org/3B82F6/veksir" alt="Contribution Graph"/>
   </a>
 </p>
 
