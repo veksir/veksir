@@ -79,7 +79,7 @@ Team project at Unicordoba for automated attendance tracking. My role focused on
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevyn-sena-molina/">
+  <a href="https://www.linkedin.com/in/kevin-sena-molina/">
     <img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
