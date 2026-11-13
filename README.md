@@ -72,12 +72,6 @@ Team project at Unicordoba for automated attendance tracking. My role focused on
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,docker,git,github,vercel" alt="PostgreSQL, MySQL, MongoDB, SQLite, Docker, Git, GitHub, Vercel" />
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veksir&layout=compact&hide_border=true&bg_color=1F242C&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
-</p>
-
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
