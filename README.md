@@ -2,9 +2,9 @@
   <img src="./banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kevyn</h1>
+<h1 align="center">Hi 👋, I'm Kevyn Sena</h1>
 
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer · Systems Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge" alt="Open to work"/>
@@ -15,22 +15,68 @@
 </p>
 
 <p align="center">
-Building practical web applications with clean architecture and modern technologies.
+  Open to full-stack, backend and systems roles (remote or Colombia).
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
 <img align="right" src="./astronaut.png" width="280" alt="Developer Illustration"/>
 
-**kevyn**, here — Systems Engineer graduated from Universidad de Córdoba (Montería, Colombia), focused on full-stack development.
+I'm a Systems Engineer from Universidad de Córdoba (Montería, Colombia), graduated in July 2026 and focused on full-stack development.
 
-I work with a planning-first approach: documenting requirements and designing the architecture before writing a single line of code. I enjoy turning that groundwork into real, working applications.
+I work with a planning-first approach: I document requirements and design the architecture before writing code, then turn that groundwork into real, working applications.
 
-Recently completed a 120-hour **Diplomado en Desarrollo de Aplicaciones Web con Herramientas Cloud** (Unicordoba, 2026).
+I completed a 120-hour **Diplomado en Desarrollo de Aplicaciones Web con Herramientas Cloud** (Unicordoba, 2026).
 
-My goal is simple: keep learning, build useful software, and grow into a well-rounded software engineer who creates reliable solutions.
+My goal is to keep learning, build useful software, and grow into a well-rounded engineer who creates reliable solutions.
 
 <br clear="right"/>
+
+<h2 align="center">🛠️ Projects</h2>
+
+### 💧 [HydrApp](https://github.com/veksir/hydrapp)
+Hydration-tracking PWA with an AI assistant powered by the Groq API and push notifications.
+**Stack:** React, Vite, Express, SQLite, Groq API · **Deploy:** Vercel (frontend) + Render (backend)
+🔗 [Live demo](https://hydrapp-beta.vercel.app) · The backend runs on a free tier, so the first request after inactivity may take a few seconds.
+
+### 🎯 [flexgoal](https://github.com/veksir/flexgoal)
+Goal-tracking mobile app with weekly and daily views.
+**Stack:** React Native, Expo
+
+### ✈️ [Airport Staffing Calculator](https://github.com/veksir/dimensionamiento-personal-aeropuerto)
+Tool that calculates the staff required per day and station from a flight itinerary spreadsheet, and generates result spreadsheets plus an HTML dashboard. Packaged as a Windows executable for non-technical users. Tested with real itineraries covering 55 stations.
+**Stack:** Python, Excel, HTML
+
+### 🧾 [SIGSA](https://github.com/veksir/sigsa)
+Management system for an auto repair shop.
+**Stack:** PHP, MySQL
+
+### 🎓 [Automated Attendance System](https://github.com/bambai-labs/asistencia-unicordoba)
+Team project at Unicordoba for automated attendance tracking. My role focused on functional testing.
+**Stack:** React, Node.js, MongoDB, Docker
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,php" alt="TypeScript, JavaScript, Python, HTML, CSS, PHP" />
+</p>
+
+<p align="center"><b>Frameworks & Libraries</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="React, Next.js, Node.js, Express, Tailwind" />
+</p>
+
+<p align="center"><b>Databases & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,docker,git,github,vercel" alt="PostgreSQL, MySQL, MongoDB, SQLite, Docker, Git, GitHub, Vercel" />
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veksir&layout=compact&hide_border=true&bg_color=1F242C&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+</p>
 
 <h2 align="center">🤝 Connect</h2>
 
@@ -48,41 +94,6 @@ My goal is simple: keep learning, build useful software, and grow into a well-ro
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php" alt="Java, JavaScript, TypeScript, HTML, CSS, PHP" />
-</p>
-
-<p align="center"><b>Frameworks & Libraries</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="React, Next.js, Node.js, Express, Tailwind" />
-</p>
-
-<p align="center"><b>Databases & Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,nginx" alt="MongoDB, MySQL, PostgreSQL, Docker, Git, GitHub, Nginx" />
-</p>
-
-<h2 align="center">🛠️ Featured Project</h2>
-
-<p align="center">
-  <a href="https://github.com/veksir/hydrapp">
-    <b>💧 HydrApp</b>
-  </a>
-</p>
-
-<p align="center">
-Hydration-tracking PWA integrating the Groq API — backend on Render, frontend on Vercel.
-</p>
-
-<h2 align="center">📈 Contribution Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=veksir&background=1F242C&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border_radius=16" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veksir&label=Profile+views&style=flat-square&color=grey" alt="Profile Views"/>
+  🌐 <a href="https://kevynsena.vercel.app">Portfolio</a>
 </p>
